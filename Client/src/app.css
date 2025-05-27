@@ -1,0 +1,13 @@
+.app {
+    width: 100%;
+    display: flex;
+    gap: 16px;
+
+}
+.content {
+    background-color: red;
+    border-radius: 8px;
+    flex : 1;  /*  ignore width and take big width possible   */
+    margin-Right: 16px;
+}
+
